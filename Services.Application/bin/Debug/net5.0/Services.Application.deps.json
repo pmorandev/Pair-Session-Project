@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Services.Application/1.0.0": {
+        "dependencies": {
+          "Services.Math": "1.0.0"
+        },
+        "runtime": {
+          "Services.Application.dll": {}
+        }
+      },
+      "Services.Math/1.0.0": {
+        "runtime": {
+          "Services.Math.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Services.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Services.Math/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

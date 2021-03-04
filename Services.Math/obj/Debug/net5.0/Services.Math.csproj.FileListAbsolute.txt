@@ -1,0 +1,12 @@
+/Users/admin/Documents/Acklen Avenue/Project Pair-Session/Pair-Session-Project/Services.Math/bin/Debug/net5.0/Services.Math.deps.json
+/Users/admin/Documents/Acklen Avenue/Project Pair-Session/Pair-Session-Project/Services.Math/bin/Debug/net5.0/Services.Math.dll
+/Users/admin/Documents/Acklen Avenue/Project Pair-Session/Pair-Session-Project/Services.Math/bin/Debug/net5.0/ref/Services.Math.dll
+/Users/admin/Documents/Acklen Avenue/Project Pair-Session/Pair-Session-Project/Services.Math/bin/Debug/net5.0/Services.Math.pdb
+/Users/admin/Documents/Acklen Avenue/Project Pair-Session/Pair-Session-Project/Services.Math/obj/Debug/net5.0/Services.Math.csprojAssemblyReference.cache
+/Users/admin/Documents/Acklen Avenue/Project Pair-Session/Pair-Session-Project/Services.Math/obj/Debug/net5.0/Services.Math.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/Acklen Avenue/Project Pair-Session/Pair-Session-Project/Services.Math/obj/Debug/net5.0/Services.Math.AssemblyInfoInputs.cache
+/Users/admin/Documents/Acklen Avenue/Project Pair-Session/Pair-Session-Project/Services.Math/obj/Debug/net5.0/Services.Math.AssemblyInfo.cs
+/Users/admin/Documents/Acklen Avenue/Project Pair-Session/Pair-Session-Project/Services.Math/obj/Debug/net5.0/Services.Math.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/Acklen Avenue/Project Pair-Session/Pair-Session-Project/Services.Math/obj/Debug/net5.0/Services.Math.dll
+/Users/admin/Documents/Acklen Avenue/Project Pair-Session/Pair-Session-Project/Services.Math/obj/Debug/net5.0/ref/Services.Math.dll
+/Users/admin/Documents/Acklen Avenue/Project Pair-Session/Pair-Session-Project/Services.Math/obj/Debug/net5.0/Services.Math.pdb
